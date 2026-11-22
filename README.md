@@ -66,9 +66,9 @@ The suburb (New Beith), state (QLD) and ABN are already filled in. Do not invent
 
 See `images/README.md`. The job photos are already on the home page, the services page and the about page. Replace a file in `images/jobs/` only if you keep the same name, or the page will show the old shot.
 
-The social share image is `images/og-image.png` (1200×630). Replace that file if you want a different preview in iMessage, LinkedIn or Facebook. Keep the same file name.
+The social share image is `images/og-image.png` (1200×630), with the badge centred on charcoal. Replace that file if you want a different preview in iMessage, LinkedIn or Facebook. Keep the same file name.
 
-The logo files are `images/wordmark-on-dark.svg` (used in the header) and `images/wordmark.svg` (for light backgrounds). The mark on its own is `images/mark.svg` and `favicon.svg`.
+The header and tab icon use the circular Heartwood Earthworx badge: `images/logo.png` and `images/logo.webp` (400px, transparent outside the circle), `images/logo-mark.png` (512px, also used as the schema.org logo), plus `favicon-32.png`, `favicon-192.png`, `favicon.ico` and `apple-touch-icon.png`.
 
 ## Deploy to GitHub Pages
 

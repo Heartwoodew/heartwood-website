@@ -1,4 +1,9 @@
+# Logo
+
+The circular Heartwood Earthworx badge is `logo.png` and `logo.webp` (400px, transparent outside the circle) and `logo-mark.png` (512px). `og-image.png` is 1200×630 with the badge centred on charcoal. These were cut from Alex’s official badge; do not replace them with a drawn stand-in.
+
 # Job photos
+
 
 These are Heartwood’s own job photos, resized for the site. Originals are not stored here.
 
