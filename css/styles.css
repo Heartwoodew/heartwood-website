@@ -320,6 +320,21 @@ a:hover {
   }
 }
 
+
+@media (min-width: 960px) and (max-width: 1120px) {
+  .site-nav {
+    gap: 0.7rem;
+  }
+
+  .site-nav ul {
+    gap: 0.7rem;
+  }
+
+  .nav-cta {
+    padding-inline: 0.75rem;
+  }
+}
+
 /* Buttons */
 
 .btn {
@@ -1211,6 +1226,46 @@ address {
 
 .legal p {
   margin: 0.25rem 0;
+}
+
+
+/* Careers */
+
+.page-head-job h1 {
+  max-width: 22ch;
+}
+
+.job-apply p a {
+  display: inline;
+  margin: 0;
+}
+
+.job-layout .block-title {
+  font-size: clamp(1.7rem, 3.4vw, 2.3rem);
+  max-width: 28ch;
+  line-height: 1.05;
+}
+
+.job-facts {
+  margin: 1rem 0 1.4rem;
+}
+
+.job-section-title {
+  margin: 1.5rem 0 0.45rem;
+  font-size: 1.7rem;
+}
+
+.job-apply .cta-actions {
+  margin-top: 1rem;
+}
+
+.job-apply a.btn {
+  display: inline-flex;
+  color: var(--ink);
+}
+
+.job-apply a.btn:hover {
+  color: var(--ink);
 }
 
 /* Wider layouts */
